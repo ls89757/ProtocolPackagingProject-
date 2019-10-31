@@ -6,31 +6,31 @@
 
 #IncludeRegexTransform: 
 
-/home/lucas/CLionProjects/network_pro/application.c
+/home/lucas/CLionProjects/cnm/application.c
 application.h
-/home/lucas/CLionProjects/network_pro/application.h
+/home/lucas/CLionProjects/cnm/application.h
 
-/home/lucas/CLionProjects/network_pro/application.h
+/home/lucas/CLionProjects/cnm/application.h
 zconf.h
 -
 package.h
-/home/lucas/CLionProjects/network_pro/package.h
+/home/lucas/CLionProjects/cnm/package.h
 
-/home/lucas/CLionProjects/network_pro/main.c
+/home/lucas/CLionProjects/cnm/main.c
 stdio.h
 -
 
-/home/lucas/CLionProjects/network_pro/package.c
+/home/lucas/CLionProjects/cnm/package.c
 package.h
-/home/lucas/CLionProjects/network_pro/package.h
+/home/lucas/CLionProjects/cnm/package.h
 
-/home/lucas/CLionProjects/network_pro/package.h
+/home/lucas/CLionProjects/cnm/package.h
 stream.h
-/home/lucas/CLionProjects/network_pro/stream.h
+/home/lucas/CLionProjects/cnm/stream.h
 
-/home/lucas/CLionProjects/network_pro/stream.c
+/home/lucas/CLionProjects/cnm/stream.c
 stream.h
-/home/lucas/CLionProjects/network_pro/stream.h
+/home/lucas/CLionProjects/cnm/stream.h
 
-/home/lucas/CLionProjects/network_pro/stream.h
+/home/lucas/CLionProjects/cnm/stream.h
 
