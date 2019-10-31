@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/network_pro.dir/main.c.o CMakeFiles/network_pro.dir/application.c.o CMakeFiles/network_pro.dir/package.c.o CMakeFiles/network_pro.dir/stream.c.o  -o network_pro 
