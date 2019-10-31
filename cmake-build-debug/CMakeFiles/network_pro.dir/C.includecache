@@ -6,31 +6,31 @@
 
 #IncludeRegexTransform: 
 
-/home/lucas/CLionProjects/cnm/application.c
+/Users/scl_89757/CLionProjects/ProtocolPackagingProject-/application.c
 application.h
-/home/lucas/CLionProjects/cnm/application.h
+/Users/scl_89757/CLionProjects/ProtocolPackagingProject-/application.h
 
-/home/lucas/CLionProjects/cnm/application.h
+/Users/scl_89757/CLionProjects/ProtocolPackagingProject-/application.h
 zconf.h
 -
 package.h
-/home/lucas/CLionProjects/cnm/package.h
+/Users/scl_89757/CLionProjects/ProtocolPackagingProject-/package.h
 
-/home/lucas/CLionProjects/cnm/main.c
+/Users/scl_89757/CLionProjects/ProtocolPackagingProject-/main.c
 stdio.h
 -
 
-/home/lucas/CLionProjects/cnm/package.c
+/Users/scl_89757/CLionProjects/ProtocolPackagingProject-/package.c
 package.h
-/home/lucas/CLionProjects/cnm/package.h
+/Users/scl_89757/CLionProjects/ProtocolPackagingProject-/package.h
 
-/home/lucas/CLionProjects/cnm/package.h
+/Users/scl_89757/CLionProjects/ProtocolPackagingProject-/package.h
 stream.h
-/home/lucas/CLionProjects/cnm/stream.h
+/Users/scl_89757/CLionProjects/ProtocolPackagingProject-/stream.h
 
-/home/lucas/CLionProjects/cnm/stream.c
+/Users/scl_89757/CLionProjects/ProtocolPackagingProject-/stream.c
 stream.h
-/home/lucas/CLionProjects/cnm/stream.h
+/Users/scl_89757/CLionProjects/ProtocolPackagingProject-/stream.h
 
-/home/lucas/CLionProjects/cnm/stream.h
+/Users/scl_89757/CLionProjects/ProtocolPackagingProject-/stream.h
 

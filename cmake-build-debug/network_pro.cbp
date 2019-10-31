@@ -8,98 +8,100 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/home/lucas/CLionProjects/cnm/cmake-build-debug"/>
+				<Option working_dir="/Users/scl_89757/CLionProjects/ProtocolPackagingProject-/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/lucas/CLionProjects/cnm/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/lucas/CLionProjects/cnm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/lucas/CLionProjects/cnm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/lucas/CLionProjects/cnm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/scl_89757/CLionProjects/ProtocolPackagingProject-/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/scl_89757/CLionProjects/ProtocolPackagingProject-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/scl_89757/CLionProjects/ProtocolPackagingProject-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/scl_89757/CLionProjects/ProtocolPackagingProject-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/home/lucas/CLionProjects/cnm/cmake-build-debug"/>
+				<Option working_dir="/Users/scl_89757/CLionProjects/ProtocolPackagingProject-/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/lucas/CLionProjects/cnm/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/lucas/CLionProjects/cnm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/lucas/CLionProjects/cnm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/lucas/CLionProjects/cnm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="network_pro">
-				<Option output="/home/lucas/CLionProjects/cnm/cmake-build-debug/network_pro" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/lucas/CLionProjects/cnm/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/lucas/CLionProjects/cnm/cmake-build-debug/Makefile&quot;  VERBOSE=1 network_pro"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/lucas/CLionProjects/cnm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/lucas/CLionProjects/cnm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/lucas/CLionProjects/cnm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="network_pro/fast">
-				<Option output="/home/lucas/CLionProjects/cnm/cmake-build-debug/network_pro" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/lucas/CLionProjects/cnm/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/lucas/CLionProjects/cnm/cmake-build-debug/Makefile&quot;  VERBOSE=1 network_pro/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/lucas/CLionProjects/cnm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/lucas/CLionProjects/cnm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/lucas/CLionProjects/cnm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/scl_89757/CLionProjects/ProtocolPackagingProject-/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/scl_89757/CLionProjects/ProtocolPackagingProject-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/scl_89757/CLionProjects/ProtocolPackagingProject-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/scl_89757/CLionProjects/ProtocolPackagingProject-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/home/lucas/CLionProjects/cnm/cmake-build-debug"/>
+				<Option working_dir="/Users/scl_89757/CLionProjects/ProtocolPackagingProject-/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/home/lucas/CLionProjects/cnm/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/lucas/CLionProjects/cnm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/home/lucas/CLionProjects/cnm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/home/lucas/CLionProjects/cnm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/scl_89757/CLionProjects/ProtocolPackagingProject-/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/scl_89757/CLionProjects/ProtocolPackagingProject-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/scl_89757/CLionProjects/ProtocolPackagingProject-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/scl_89757/CLionProjects/ProtocolPackagingProject-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="network_pro">
+				<Option output="/Users/scl_89757/CLionProjects/ProtocolPackagingProject-/cmake-build-debug/network_pro" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/scl_89757/CLionProjects/ProtocolPackagingProject-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/scl_89757/CLionProjects/ProtocolPackagingProject-/cmake-build-debug/Makefile&quot;  VERBOSE=1 network_pro"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/scl_89757/CLionProjects/ProtocolPackagingProject-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/scl_89757/CLionProjects/ProtocolPackagingProject-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/scl_89757/CLionProjects/ProtocolPackagingProject-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="network_pro/fast">
+				<Option output="/Users/scl_89757/CLionProjects/ProtocolPackagingProject-/cmake-build-debug/network_pro" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/scl_89757/CLionProjects/ProtocolPackagingProject-/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/scl_89757/CLionProjects/ProtocolPackagingProject-/cmake-build-debug/Makefile&quot;  VERBOSE=1 network_pro/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/scl_89757/CLionProjects/ProtocolPackagingProject-/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/scl_89757/CLionProjects/ProtocolPackagingProject-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/scl_89757/CLionProjects/ProtocolPackagingProject-/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/lucas/CLionProjects/cnm/application.c">
+		<Unit filename="/Users/scl_89757/CLionProjects/ProtocolPackagingProject-/application.c">
 			<Option target="network_pro"/>
 		</Unit>
-		<Unit filename="/home/lucas/CLionProjects/cnm/application.h">
+		<Unit filename="/Users/scl_89757/CLionProjects/ProtocolPackagingProject-/application.h">
 			<Option target="network_pro"/>
 		</Unit>
-		<Unit filename="/home/lucas/CLionProjects/cnm/main.c">
+		<Unit filename="/Users/scl_89757/CLionProjects/ProtocolPackagingProject-/main.c">
 			<Option target="network_pro"/>
 		</Unit>
-		<Unit filename="/home/lucas/CLionProjects/cnm/package.c">
+		<Unit filename="/Users/scl_89757/CLionProjects/ProtocolPackagingProject-/package.c">
 			<Option target="network_pro"/>
 		</Unit>
-		<Unit filename="/home/lucas/CLionProjects/cnm/package.h">
+		<Unit filename="/Users/scl_89757/CLionProjects/ProtocolPackagingProject-/package.h">
 			<Option target="network_pro"/>
 		</Unit>
-		<Unit filename="/home/lucas/CLionProjects/cnm/stream.c">
+		<Unit filename="/Users/scl_89757/CLionProjects/ProtocolPackagingProject-/stream.c">
 			<Option target="network_pro"/>
 		</Unit>
-		<Unit filename="/home/lucas/CLionProjects/cnm/stream.h">
+		<Unit filename="/Users/scl_89757/CLionProjects/ProtocolPackagingProject-/stream.h">
 			<Option target="network_pro"/>
 		</Unit>
-		<Unit filename="/home/lucas/CLionProjects/cnm/CMakeLists.txt">
+		<Unit filename="/Users/scl_89757/CLionProjects/ProtocolPackagingProject-/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

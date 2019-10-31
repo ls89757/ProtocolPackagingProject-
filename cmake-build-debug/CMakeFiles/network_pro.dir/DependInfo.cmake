@@ -4,12 +4,12 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/lucas/CLionProjects/cnm/application.c" "/home/lucas/CLionProjects/cnm/cmake-build-debug/CMakeFiles/network_pro.dir/application.c.o"
-  "/home/lucas/CLionProjects/cnm/main.c" "/home/lucas/CLionProjects/cnm/cmake-build-debug/CMakeFiles/network_pro.dir/main.c.o"
-  "/home/lucas/CLionProjects/cnm/package.c" "/home/lucas/CLionProjects/cnm/cmake-build-debug/CMakeFiles/network_pro.dir/package.c.o"
-  "/home/lucas/CLionProjects/cnm/stream.c" "/home/lucas/CLionProjects/cnm/cmake-build-debug/CMakeFiles/network_pro.dir/stream.c.o"
+  "/Users/scl_89757/CLionProjects/ProtocolPackagingProject-/application.c" "/Users/scl_89757/CLionProjects/ProtocolPackagingProject-/cmake-build-debug/CMakeFiles/network_pro.dir/application.c.o"
+  "/Users/scl_89757/CLionProjects/ProtocolPackagingProject-/main.c" "/Users/scl_89757/CLionProjects/ProtocolPackagingProject-/cmake-build-debug/CMakeFiles/network_pro.dir/main.c.o"
+  "/Users/scl_89757/CLionProjects/ProtocolPackagingProject-/package.c" "/Users/scl_89757/CLionProjects/ProtocolPackagingProject-/cmake-build-debug/CMakeFiles/network_pro.dir/package.c.o"
+  "/Users/scl_89757/CLionProjects/ProtocolPackagingProject-/stream.c" "/Users/scl_89757/CLionProjects/ProtocolPackagingProject-/cmake-build-debug/CMakeFiles/network_pro.dir/stream.c.o"
   )
-set(CMAKE_C_COMPILER_ID "GNU")
+set(CMAKE_C_COMPILER_ID "AppleClang")
 
 # The include file search paths:
 set(CMAKE_C_TARGET_INCLUDE_PATH

@@ -1,1 +1,1 @@
-/usr/bin/cc -g   CMakeFiles/network_pro.dir/main.c.o CMakeFiles/network_pro.dir/application.c.o CMakeFiles/network_pro.dir/package.c.o CMakeFiles/network_pro.dir/stream.c.o  -o network_pro 
+/Library/Developer/CommandLineTools/usr/bin/cc -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/network_pro.dir/main.c.o CMakeFiles/network_pro.dir/application.c.o CMakeFiles/network_pro.dir/package.c.o CMakeFiles/network_pro.dir/stream.c.o  -o network_pro 
