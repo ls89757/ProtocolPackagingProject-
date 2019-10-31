@@ -1,0 +1,3 @@
+/Users/scl_89757/CLionProjects/ProtocolPackagingProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/scl_89757/CLionProjects/ProtocolPackagingProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/scl_89757/CLionProjects/ProtocolPackagingProject/cmake-build-debug/CMakeFiles/ProtocolPackagingProject.dir
